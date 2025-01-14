@@ -31,4 +31,11 @@ The Food Quality Analyzer leverages Optical Character Recognition (OCR) and AI t
   - Streamlit Cloud (or similar service): For deployment.
   - Git/GitHub: For version control.
 
+   **ScreenShots:**
+  ![Screenshot 2025-01-14 185743](https://github.com/user-attachments/assets/05b3b7dc-a44a-48dd-b8b3-761cee99424e)
+  ![image](https://github.com/user-attachments/assets/52af5368-51c9-4d68-9d05-59485e0a2ab6)
+  ![image](https://github.com/user-attachments/assets/585790ba-1342-47a7-82e5-0cacab491779)
+
+
+  
 
